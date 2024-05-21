@@ -12,6 +12,7 @@
 			@click="onClick"
 		>
 			<span :aria-label="isVisible ? 'Hide password' : 'Show password'" />
+			
 		</span>
 	</div>
 </template>
